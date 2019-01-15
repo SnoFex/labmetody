@@ -1,0 +1,2 @@
+# labmetody
+laba
